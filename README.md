@@ -1,13 +1,13 @@
 <div align="center">
 
 <!-- Hero Banner Image -->
-<img src="./assets/shakra-spider-developer.png" alt="Shakra - Full-Stack Developer | AI & Automation" width="100%" />
+<img src="assets/shakra-spider-developer.png" alt="Shakra - Full-Stack Developer | AI & Automation" width="100%" />
 
 <br />
 
 <!-- Dynamic Typing Banner & Status -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF2A5F&center=true&vCenter=true&width=750&height=45&lines=Full-Stack+Developer+%7C+AI+%26+Automation;Building+clean%2C+responsive+and+intelligent+digital+experiences.🕷️" alt="Typing SVG" opacity="1" />
+<a href="https://github.com/shakra-codes">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF2A5F&center=true&vCenter=true&width=750&height=45&lines=Full-Stack+Developer+%7C+AI+%26+Automation;Building+clean%2C+responsive+and+intelligent+digital+experiences." alt="Full-Stack Developer | AI & Automation" />
 </a>
 
 <p align="center">
@@ -186,39 +186,24 @@ Like a web weaver in the digital ecosystem, I architect and build elegant, highl
 
 <img src="./assets/divider.svg" width="100%" alt="Divider" />
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity & Stats
 
 <div align="center">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shakra-codes&theme=react-dark&color=ff2a5f&line=ff2a5f&point=ffffff&bg_color=0d1117&hide_border=false" alt="Shakra's GitHub Contribution Graph" width="100%" />
+
+  <br /><br />
 
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=shakra-codes&show_icons=true&theme=radical&bg_color=0d1117&title_color=ff2a5f&text_color=e6edf3&icon_color=ff2a5f&border_color=ff2a5f&hide_border=false" alt="Shakra's GitHub Stats" height="170" />
+        <img src="https://github-readme-stats.vercel.app/api?username=shakra-codes&show_icons=true&theme=radical&bg_color=0d1117&title_color=ff2a5f&text_color=e6edf3&icon_color=ff2a5f&border_color=ff2a5f" alt="Shakra's GitHub Stats" height="165" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakra-codes&layout=compact&theme=radical&bg_color=0d1117&title_color=ff2a5f&text_color=e6edf3&icon_color=ff2a5f&border_color=ff2a5f&hide_border=false" alt="Most Used Languages" height="170" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakra-codes&layout=compact&theme=radical&bg_color=0d1117&title_color=ff2a5f&text_color=e6edf3&icon_color=ff2a5f&border_color=ff2a5f" alt="Most Used Languages" height="165" />
       </td>
     </tr>
   </table>
-
-  <br />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shakra-codes&theme=black-ice&background=0D1117&border=FF2A5F&stroke=FF2A5F&ring=FF2A5F&fire=FF2A5F&currStreakNum=FFFFFF&sideNums=FFFFFF&sideTitle=FF2A5F&dates=8B949E" alt="GitHub Streak Stats" width="80%" />
-
-</div>
-
-<br />
-
-<img src="./assets/divider.svg" width="100%" alt="Divider" />
-
-## 🕸️ Spider Web Contribution Matrix
-
-<div align="center">
-
-  <p><i>Weaving code daily across the developer ecosystem 🕷️</i></p>
-  
-  <!-- Contribution Activity Graphic -->
-  <img src="https://raw.githubusercontent.com/shakra-codes/shakra-codes/output/github-contribution-grid-snake.svg" alt="GitHub Snake Contribution Graph" width="100%" onerror="this.src='https://github-readme-activity-graph.vercel.app/graph?username=shakra-codes&theme=react-dark&color=ff2a5f&line=ff2a5f&point=ffffff&bg_color=0d1117&area=true&hide_border=false'" />
 
 </div>
 
