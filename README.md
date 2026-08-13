@@ -190,20 +190,26 @@ Like a web weaver in the digital ecosystem, I architect and build elegant, highl
 
 <div align="center">
 
+  <!-- Activity Contribution Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shakra-codes&theme=react-dark&color=ff2a5f&line=ff2a5f&point=ffffff&bg_color=0d1117&hide_border=false" alt="Shakra's GitHub Contribution Graph" width="100%" />
 
   <br /><br />
 
+  <!-- Profile Summary & Language Cards -->
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=shakra-codes&show_icons=true&theme=radical&bg_color=0d1117&title_color=ff2a5f&text_color=e6edf3&icon_color=ff2a5f&border_color=ff2a5f" alt="Shakra's GitHub Stats" height="165" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shakra-codes&theme=radical" alt="Shakra's Profile Details" height="180" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakra-codes&layout=compact&theme=radical&bg_color=0d1117&title_color=ff2a5f&text_color=e6edf3&icon_color=ff2a5f&border_color=ff2a5f" alt="Most Used Languages" height="165" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shakra-codes&theme=radical" alt="Most Used Languages" height="180" />
       </td>
     </tr>
   </table>
+
+  <br />
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shakra-codes&theme=radical" alt="Shakra's GitHub Commit Stats" width="80%" />
 
 </div>
 
